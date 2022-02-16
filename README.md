@@ -4,7 +4,7 @@
 is an open-source Ingress Controller for Kubernetes that offers
 API management capabilities with a plugin architecture.
 
-This chart bootstraps all the components needed to run Kong on a
+This chart bootstraps all the components needed to run Konggg on a
 [Kubernetes](http://kubernetes.io) cluster using the
 [Helm](https://helm.sh) package manager.
 
